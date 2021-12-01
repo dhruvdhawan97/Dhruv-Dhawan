@@ -167,7 +167,22 @@ h2 {
   }
 }
 
-@media only screen and (min-width: 540px) {
+@media only screen and (min-width: 540px) and (max-width: 549px) {
+  header {
+    font-size: 0.75rem;
+    margin-bottom: 2rem;
+  }
+
+  .container {
+    background: rgb(255, 252, 246);
+    border-radius: 10px;
+  }
+  h1,
+  h2 {
+    font-size: 1.5rem;
+  }
+}
+@media only screen and (min-width: 550px) {
   header {
     font-size: 0.75rem;
     margin-bottom: 2rem;
