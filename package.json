@@ -1,0 +1,22 @@
+{
+  "name": "dhruv_dhawan_portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruvdhawan97/Dhruv-Dhawan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhruvdhawan97/Dhruv-Dhawan/issues"
+  },
+  "homepage": "https://github.com/dhruvdhawan97/Dhruv-Dhawan#readme",
+  "dependencies": {
+    "firebase": "^9.6.0"
+  }
+}

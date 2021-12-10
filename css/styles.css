@@ -58,6 +58,9 @@ h1 {
 h2 {
   padding: auto 0 auto 0;
 }
+h3 {
+  font-weight: 800;
+}
 /* classes */
 .main {
   position: relative;
@@ -95,6 +98,28 @@ h2 {
 
 #projects-end-tag {
   text-align: center;
+}
+
+.created-projects {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.left-align-img {
+  margin: auto 30px auto auto;
+  width: 25%;
+  float: left;
+}
+
+.right-align-img {
+  margin: auto auto auto 30px;
+  width: 25%;
+  float: right;
+}
+.list-imgs {
+  width: 10%;
+  height: 10%;
 }
 /* media querries */
 
